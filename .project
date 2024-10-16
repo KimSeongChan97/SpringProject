@@ -44,8 +44,6 @@
 		<nature>org.eclipse.wst.common.modulecore.ModuleCoreNature</nature>
 		<nature>org.eclipse.wst.jsdt.core.jsNature</nature>
 	</natures>
-<<<<<<< HEAD
-=======
 	<filteredResources>
 		<filter>
 			<id>1728543268448</id>
@@ -57,5 +55,4 @@
 			</matcher>
 		</filter>
 	</filteredResources>
->>>>>>> eb7a719da48a151d2529416d401c52cee16b10ab
 </projectDescription>

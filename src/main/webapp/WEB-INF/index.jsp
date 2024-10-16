@@ -9,7 +9,6 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/5.3.0/css/bootstrap.min.css">
     <link rel="stylesheet" href="${pageContext.request.contextPath}/css/index.css">
     <link rel="icon" href="${pageContext.request.contextPath}/static/favicon.ico" type="image/x-icon">
-    
 </head>
 <body>
 
